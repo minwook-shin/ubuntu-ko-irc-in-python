@@ -8,3 +8,6 @@ github.com/minwook-shin
 GPL 3
 ### How to Run Program 
 ~ python get_ubuntu_ko_irc.py
+
+### New features!
+Slack messages are displayed like this: [s]

@@ -10,4 +10,4 @@ python:
   - "3.7-dev" # 3.7 development branch
   - "nightly" # currently points to 3.7-dev
 # command to run tests
-script: pytest get_ubuntu_ko_irc.py
+script: python get_ubuntu_ko_irc.py

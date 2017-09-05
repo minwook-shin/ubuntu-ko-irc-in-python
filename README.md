@@ -1,4 +1,5 @@
-# Ubuntu-ko-irc-in-python
+ [![Build Status](https://travis-ci.org/minwook-shin/ubuntu-ko-irc-in-python.svg?branch=master)](https://travis-ci.org/minwook-shin/ubuntu-ko-irc-in-python)
+ # Ubuntu-ko-irc-in-python
 eng : It is a app to watch the ubuntu-ko(on irclogs.ubuntu.com) irc channel.
 
 kor : irclogs.ubuntu.com에 있는 ubuntu-ko irc 채널을 볼 수 있습니다.

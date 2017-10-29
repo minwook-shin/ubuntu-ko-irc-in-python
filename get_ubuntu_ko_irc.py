@@ -8,9 +8,10 @@ from _datetime import datetime
 import time
 import codecs
 import urllib.request
+import emoji
 import re
 
-ver = "1.1.3"
+ver = "1.2.0"
 
 print("본 프로그램은 주기적으로 ubuntu-ko IRC 로그를 가지고오는 프로그램입니다.")
 today_date = datetime.today().strftime("%Y/%m/%d")
@@ -22,6 +23,6 @@ while True:
     down = urllib.request.urlretrieve(u, "ubuntu-ko.txt")
     f = codecs.open("ubuntu-ko.txt", "r", "utf-8")
     text = f.read()
-    filter_text = re.sub("<bridgebot>", "[Slack]", text)
-    print(filter_text)
+    filter_slack = emoji.emojize(re.sub("<bridgebot>", "[Slack]", text))
+    print(filter_slack)
     time.sleep(times)

@@ -11,4 +11,6 @@ GPL 3
 ~ python get_ubuntu_ko_irc.py
 
 ### New features!
-Slack messages are displayed like this: [s]
+* Slack messages are displayed like this: [s]
+* Add GUI
+* Emoji messages are displayed like this: [🙂]

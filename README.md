@@ -1,4 +1,5 @@
  [![Build Status](https://travis-ci.org/minwook-shin/ubuntu-ko-irc-in-python.svg?branch=master)](https://travis-ci.org/minwook-shin/ubuntu-ko-irc-in-python)
+ [![codebeat badge](https://codebeat.co/badges/b6f11ab6-1f02-4e0d-bb36-6095931395b1)](https://codebeat.co/projects/github-com-minwook-shin-ubuntu-ko-irc-in-python-master)
  # Ubuntu-ko-irc-in-python
 eng : It is a app to watch the ubuntu-ko(on irclogs.ubuntu.com) irc channel.
 

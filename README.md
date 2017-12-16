@@ -20,7 +20,9 @@ python get_ubuntu_ko_irc.py
 
 ## Contributing
 
-This project has been disabled and will not receive any contributions.
+Welcome to your contribution.
+
+Please check the todo-list in issue.
 
 ## Author
 github.com/minwook-shin
